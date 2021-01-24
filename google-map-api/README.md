@@ -190,7 +190,8 @@ export default {
   </template>
 </GoogleMapLoader>
 ```
->在 slot-scope 作用域插槽中調用 GoogleMapMarker ，並使用 v-for 迴圈傳入多筆標記  
+>在 slot-scope 作用域插槽中調用 GoogleMapMarker 並傳入 GoogleMapLoader 回傳的 google 與 map  
+>使用 v-for 迴圈傳入多筆標記資料至 GoogleMapMarker 進行創建
 ### (2) 調整 TravelMap.vue 元件的 script 區塊  
 ```js
 <script>
