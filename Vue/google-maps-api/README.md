@@ -1,5 +1,5 @@
-# google-map-api  
-在 vue-cli 中使用 google-map-api
+# google-maps-api  
+在 vue-cli 中使用 google-maps-api
 ## 申請 google地圖api
 
 [開始使用](https://cloud.google.com/maps-platform/pricing?hl=zh-tw)  
