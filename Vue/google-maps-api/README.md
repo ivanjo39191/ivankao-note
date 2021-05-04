@@ -2,13 +2,10 @@
 在 vue-cli 中使用 google-maps-api
 ## 申請 google地圖api
 
-[開始使用](https://cloud.google.com/maps-platform/pricing?hl=zh-tw)  
+<a href="https://cloud.google.com/maps-platform/pricing?hl=zh-tw" target="_blank">開始使用</a>  
+<a href="https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E7%AD%86%E8%A8%98-%E5%BE%9E%E9%9B%B6%E6%8E%A5%E8%A7%B8-google-map-api-%E5%9C%A8-vue-js-%E4%B8%AD%E5%AF%A6%E4%BD%9C%E5%9C%B0%E5%9C%96-%E5%9C%B0%E6%A8%99-%E8%A8%8A%E6%81%AF%E8%A6%96%E7%AA%97-8eed860637d6" target="_blank">參考步驟</a>  
+<a href="https://vuejs.org/v2/cookbook/practical-use-of-scoped-slots.html" target="_blank">參考範例</a>  
 
-[參考步驟](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E7%AD%86%E8%A8%98-%E5%BE%9E%E9%9B%B6%E6%8E%A5%E8%A7%B8-google-map-api-%E5%9C%A8-vue-js-%E4%B8%AD%E5%AF%A6%E4%BD%9C%E5%9C%B0%E5%9C%96-%E5%9C%B0%E6%A8%99-%E8%A8%8A%E6%81%AF%E8%A6%96%E7%AA%97-8eed860637d6)
-
-
-
-[參考範例](https://vuejs.org/v2/cookbook/practical-use-of-scoped-slots.html)  
 ## 1. 建立 GoogleMapLoader.vue 元件來串接地圖  
 
 ### (1) template 區塊  
