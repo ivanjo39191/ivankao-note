@@ -1,4 +1,4 @@
-# Google Map API
+# Google Maps API
 
 Created: May 2, 2021 6:58 PM
 Tags: Python
@@ -29,6 +29,8 @@ Tags: Python
 
     ```python
     def googlemap_client(input_text):
+        # input_text = '政大圖書館'
+        
         gmaps = googlemaps.Client(key=os.environ.get('GOOGLEMAP_API_KEY'))
 
         # Geocoding an address
