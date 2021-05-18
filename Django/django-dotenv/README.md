@@ -26,7 +26,7 @@ Author: IvanKao
 ### pip 安裝　django-dotenv
 
 ```
-pip install django-dotenv
+pip install python-dotenv
 ```
 
 ### 在src目錄建立.env檔案
