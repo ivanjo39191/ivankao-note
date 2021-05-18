@@ -26,7 +26,7 @@ Author: IvanKao
 ### pip 安裝　django-dotenv
 
 ```
-pip install django-doenv
+pip install django-dotenv
 ```
 
 ### 在src目錄建立.env檔案
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         sys.path.insert(0, site_packages)
     sys.path.append(os.path.abspath(os.path.dirname(__file__)))
     sys.path.append('..')
-    
+
     # 導入 dotenv
     import dotenv
     dotenv.load_dotenv(os.path.join(os.path.dirname(PROJECT_ROOT), '.env'), True)
