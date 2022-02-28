@@ -1,2 +1,0 @@
-# Ubuntu note
-Ubuntu note
