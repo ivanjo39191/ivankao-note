@@ -1,7 +1,6 @@
 # 棧與隊列
 
 Created: February 23, 2022 2:37 PM
-Status: 待公開
 Tags: Algorithm
 
 ### 將 List 作為 Stack（堆疊）使用
