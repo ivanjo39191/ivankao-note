@@ -5,7 +5,7 @@ Property: Ivan Kao
 Status: 已公開
 Tags: Python
 
-# 簡介、
+## 簡介、
 
 在 Python 中通常有三個 library 的選項來實現並發—— multiprocessing, threading, 和 Asyncio。
 
@@ -61,7 +61,7 @@ global interpreter lock (GIL) 是計算機語言解釋器中的一種機制，�
 
 但對於 Python 中的 I/O 密集型任務，可以使用多線程來提高程序性能。
 
-## Multiprocessing VS Threading VS AsyncIO in Python
+## **Multiprocessing VS Threading VS AsyncIO in Python**
 
 ### Multiprocessing (多進程)
 
@@ -89,7 +89,7 @@ global interpreter lock (GIL) 是計算機語言解釋器中的一種機制，�
 
 asyncio 的缺點是，如果我們不告訴它，事件循環將不知道進度是什麼。 當我們使用 asyncio 編寫程序時，這需要一些額外的努力。
 
-## Multiprocessing VS Threading VS AsyncIO in Python
+## **Multiprocessing VS Threading VS AsyncIO in Python 比較表**
 
 | 協程類型 | 功能 | 使用情境 | Metaphor |
 | --- | --- | --- | --- |
